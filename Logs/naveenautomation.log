@@ -1,0 +1,925 @@
+2023-11-14 03:30:05 INFO  TestBase:39 - before Navigating to URL: https://testautomationpractice.blogspot.com/
+2023-11-14 03:30:07 INFO  TestBase:45 - after Navigating to URL: https://testautomationpractice.blogspot.com/
+2023-11-14 03:30:07 INFO  TestBase:86 - Finding Element: By.cssSelector: #name
+2023-11-14 03:30:07 INFO  TestBase:92 - Finding Element: By.cssSelector: #name
+2023-11-14 03:30:07 INFO  TestBase:86 - Finding Element: By.cssSelector: #email
+2023-11-14 03:30:07 INFO  TestBase:92 - Finding Element: By.cssSelector: #email
+2023-11-14 03:30:07 INFO  TestBase:86 - Finding Element: By.cssSelector: #phone
+2023-11-14 03:30:07 INFO  TestBase:92 - Finding Element: By.cssSelector: #phone
+2023-11-14 03:30:08 INFO  TestBase:86 - Finding Element: By.cssSelector: #textarea
+2023-11-14 03:30:08 INFO  TestBase:92 - Finding Element: By.cssSelector: #textarea
+2023-11-14 03:30:08 INFO  TestBase:86 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2023-11-14 03:30:08 INFO  TestBase:92 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2023-11-14 03:30:08 INFO  TestBase:98 - beforeClicked ON: [[EdgeDriver: msedge on WINDOWS (cd89592f3552abed84297317e4688ca7)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2023-11-14 03:30:08 INFO  TestBase:104 - afterClicked ON: [[EdgeDriver: msedge on WINDOWS (cd89592f3552abed84297317e4688ca7)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2023-11-14 03:30:08 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2023-11-14 03:30:08 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2023-11-14 03:30:08 INFO  TestBase:98 - beforeClicked ON: [[EdgeDriver: msedge on WINDOWS (cd89592f3552abed84297317e4688ca7)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2023-11-14 03:30:08 INFO  TestBase:104 - afterClicked ON: [[EdgeDriver: msedge on WINDOWS (cd89592f3552abed84297317e4688ca7)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2023-11-14 03:30:08 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2023-11-14 03:30:08 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2023-11-14 03:30:08 INFO  TestBase:98 - beforeClicked ON: [[EdgeDriver: msedge on WINDOWS (cd89592f3552abed84297317e4688ca7)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2023-11-14 03:30:08 INFO  TestBase:104 - afterClicked ON: [[EdgeDriver: msedge on WINDOWS (cd89592f3552abed84297317e4688ca7)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2023-11-14 03:30:08 INFO  TestBase:86 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2023-11-14 03:30:08 INFO  TestBase:92 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2023-11-14 03:30:08 INFO  TestBase:98 - beforeClicked ON: [[EdgeDriver: msedge on WINDOWS (cd89592f3552abed84297317e4688ca7)] -> xpath: //a[text()="orange HRM"]]
+2023-11-14 03:30:20 INFO  TestBase:104 - afterClicked ON: [[EdgeDriver: msedge on WINDOWS (cd89592f3552abed84297317e4688ca7)] -> xpath: //a[text()="orange HRM"]]
+2024-01-06 12:23:34 INFO  TestBase:39 - before Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-01-06 12:23:36 INFO  TestBase:45 - after Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-01-06 12:23:37 INFO  TestBase:86 - Finding Element: By.cssSelector: #name
+2024-01-06 12:23:37 INFO  TestBase:92 - Finding Element: By.cssSelector: #name
+2024-01-06 12:23:37 INFO  TestBase:86 - Finding Element: By.cssSelector: #email
+2024-01-06 12:23:37 INFO  TestBase:92 - Finding Element: By.cssSelector: #email
+2024-01-06 12:23:37 INFO  TestBase:86 - Finding Element: By.cssSelector: #phone
+2024-01-06 12:23:37 INFO  TestBase:92 - Finding Element: By.cssSelector: #phone
+2024-01-06 12:23:37 INFO  TestBase:86 - Finding Element: By.cssSelector: #textarea
+2024-01-06 12:23:37 INFO  TestBase:92 - Finding Element: By.cssSelector: #textarea
+2024-01-06 12:23:37 INFO  TestBase:86 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-01-06 12:23:37 INFO  TestBase:92 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-01-06 12:23:37 INFO  TestBase:98 - beforeClicked ON: [[EdgeDriver: MicrosoftEdge on WINDOWS (4c7057e3724a196bb3225ef9eef3a2f2)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-01-06 12:23:37 INFO  TestBase:104 - afterClicked ON: [[EdgeDriver: MicrosoftEdge on WINDOWS (4c7057e3724a196bb3225ef9eef3a2f2)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-01-06 12:23:37 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-01-06 12:23:37 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-01-06 12:23:37 INFO  TestBase:98 - beforeClicked ON: [[EdgeDriver: MicrosoftEdge on WINDOWS (4c7057e3724a196bb3225ef9eef3a2f2)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-01-06 12:23:38 INFO  TestBase:104 - afterClicked ON: [[EdgeDriver: MicrosoftEdge on WINDOWS (4c7057e3724a196bb3225ef9eef3a2f2)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-01-06 12:23:38 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-01-06 12:23:38 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-01-06 12:23:38 INFO  TestBase:98 - beforeClicked ON: [[EdgeDriver: MicrosoftEdge on WINDOWS (4c7057e3724a196bb3225ef9eef3a2f2)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-01-06 12:23:38 INFO  TestBase:104 - afterClicked ON: [[EdgeDriver: MicrosoftEdge on WINDOWS (4c7057e3724a196bb3225ef9eef3a2f2)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-01-06 12:23:38 INFO  TestBase:86 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-01-06 12:23:38 INFO  TestBase:92 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-01-06 12:23:38 INFO  TestBase:98 - beforeClicked ON: [[EdgeDriver: MicrosoftEdge on WINDOWS (4c7057e3724a196bb3225ef9eef3a2f2)] -> xpath: //a[text()="orange HRM"]]
+2024-01-06 12:23:40 INFO  TestBase:104 - afterClicked ON: [[EdgeDriver: MicrosoftEdge on WINDOWS (4c7057e3724a196bb3225ef9eef3a2f2)] -> xpath: //a[text()="orange HRM"]]
+2024-01-06 12:23:42 INFO  TestBase:39 - before Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-01-06 12:23:44 INFO  TestBase:45 - after Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-01-06 14:26:43 INFO  TestBase:39 - before Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-01-06 14:26:44 INFO  TestBase:45 - after Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-01-06 14:26:45 INFO  TestBase:86 - Finding Element: By.cssSelector: #name
+2024-01-06 14:26:45 INFO  TestBase:92 - Finding Element: By.cssSelector: #name
+2024-01-06 14:26:45 INFO  TestBase:86 - Finding Element: By.cssSelector: #email
+2024-01-06 14:26:45 INFO  TestBase:92 - Finding Element: By.cssSelector: #email
+2024-01-06 14:26:45 INFO  TestBase:86 - Finding Element: By.cssSelector: #phone
+2024-01-06 14:26:45 INFO  TestBase:92 - Finding Element: By.cssSelector: #phone
+2024-01-06 14:26:45 INFO  TestBase:86 - Finding Element: By.cssSelector: #textarea
+2024-01-06 14:26:45 INFO  TestBase:92 - Finding Element: By.cssSelector: #textarea
+2024-01-06 14:26:45 INFO  TestBase:86 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-01-06 14:26:45 INFO  TestBase:92 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-01-06 14:26:45 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (b1a47c2d72e058066481782f1b42ccb2)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-01-06 14:26:45 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (b1a47c2d72e058066481782f1b42ccb2)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-01-06 14:26:45 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-01-06 14:26:45 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-01-06 14:26:45 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (b1a47c2d72e058066481782f1b42ccb2)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-01-06 14:26:46 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (b1a47c2d72e058066481782f1b42ccb2)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-01-06 14:26:46 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-01-06 14:26:46 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-01-06 14:26:46 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (b1a47c2d72e058066481782f1b42ccb2)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-01-06 14:26:46 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (b1a47c2d72e058066481782f1b42ccb2)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-01-06 14:26:46 INFO  TestBase:86 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-01-06 14:26:46 INFO  TestBase:92 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-01-06 14:26:46 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (b1a47c2d72e058066481782f1b42ccb2)] -> xpath: //a[text()="orange HRM"]]
+2024-01-06 14:26:48 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (b1a47c2d72e058066481782f1b42ccb2)] -> xpath: //a[text()="orange HRM"]]
+2024-01-06 14:26:49 INFO  TestBase:39 - before Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-01-06 14:26:52 INFO  TestBase:45 - after Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-01-06 14:36:48 INFO  TestBase:39 - before Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-01-06 14:36:50 INFO  TestBase:45 - after Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-01-06 14:36:50 INFO  TestBase:86 - Finding Element: By.cssSelector: #name
+2024-01-06 14:36:50 INFO  TestBase:92 - Finding Element: By.cssSelector: #name
+2024-01-06 14:36:50 INFO  TestBase:86 - Finding Element: By.cssSelector: #email
+2024-01-06 14:36:50 INFO  TestBase:92 - Finding Element: By.cssSelector: #email
+2024-01-06 14:36:50 INFO  TestBase:86 - Finding Element: By.cssSelector: #phone
+2024-01-06 14:36:50 INFO  TestBase:92 - Finding Element: By.cssSelector: #phone
+2024-01-06 14:36:50 INFO  TestBase:86 - Finding Element: By.cssSelector: #textarea
+2024-01-06 14:36:50 INFO  TestBase:92 - Finding Element: By.cssSelector: #textarea
+2024-01-06 14:36:50 INFO  TestBase:86 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-01-06 14:36:50 INFO  TestBase:92 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-01-06 14:36:50 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (cf0a9a7b4285897740239530e9c12457)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-01-06 14:36:51 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (cf0a9a7b4285897740239530e9c12457)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-01-06 14:36:51 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-01-06 14:36:51 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-01-06 14:36:51 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (cf0a9a7b4285897740239530e9c12457)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-01-06 14:36:51 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (cf0a9a7b4285897740239530e9c12457)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-01-06 14:36:51 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-01-06 14:36:51 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-01-06 14:36:51 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (cf0a9a7b4285897740239530e9c12457)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-01-06 14:36:51 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (cf0a9a7b4285897740239530e9c12457)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-01-06 14:36:51 INFO  TestBase:86 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-01-06 14:36:51 INFO  TestBase:92 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-01-06 14:36:51 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (cf0a9a7b4285897740239530e9c12457)] -> xpath: //a[text()="orange HRM"]]
+2024-01-06 14:36:53 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (cf0a9a7b4285897740239530e9c12457)] -> xpath: //a[text()="orange HRM"]]
+2024-01-06 14:36:54 INFO  TestBase:39 - before Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-01-06 14:36:56 INFO  TestBase:45 - after Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-01-06 14:57:55 INFO  TestBase:39 - before Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-01-06 14:57:57 INFO  TestBase:45 - after Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-01-06 14:57:57 INFO  TestBase:86 - Finding Element: By.cssSelector: #name
+2024-01-06 14:57:57 INFO  TestBase:92 - Finding Element: By.cssSelector: #name
+2024-01-06 14:57:57 INFO  TestBase:86 - Finding Element: By.cssSelector: #email
+2024-01-06 14:57:57 INFO  TestBase:92 - Finding Element: By.cssSelector: #email
+2024-01-06 14:57:58 INFO  TestBase:86 - Finding Element: By.cssSelector: #phone
+2024-01-06 14:57:58 INFO  TestBase:92 - Finding Element: By.cssSelector: #phone
+2024-01-06 14:57:58 INFO  TestBase:86 - Finding Element: By.cssSelector: #textarea
+2024-01-06 14:57:58 INFO  TestBase:92 - Finding Element: By.cssSelector: #textarea
+2024-01-06 14:57:58 INFO  TestBase:86 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-01-06 14:57:58 INFO  TestBase:92 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-01-06 14:57:58 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (6483b76e53cc2d5e27ff5a41f9a4e986)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-01-06 14:57:58 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (6483b76e53cc2d5e27ff5a41f9a4e986)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-01-06 14:57:58 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-01-06 14:57:58 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-01-06 14:57:58 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (6483b76e53cc2d5e27ff5a41f9a4e986)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-01-06 14:57:58 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (6483b76e53cc2d5e27ff5a41f9a4e986)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-01-06 14:57:58 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-01-06 14:57:58 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-01-06 14:57:58 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (6483b76e53cc2d5e27ff5a41f9a4e986)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-01-06 14:57:58 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (6483b76e53cc2d5e27ff5a41f9a4e986)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-01-06 14:57:58 INFO  TestBase:86 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-01-06 14:57:58 INFO  TestBase:92 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-01-06 14:57:58 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (6483b76e53cc2d5e27ff5a41f9a4e986)] -> xpath: //a[text()="orange HRM"]]
+2024-01-06 14:58:01 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (6483b76e53cc2d5e27ff5a41f9a4e986)] -> xpath: //a[text()="orange HRM"]]
+2024-01-06 14:58:02 INFO  TestBase:39 - before Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-01-06 14:58:04 INFO  TestBase:45 - after Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-01-06 15:10:04 INFO  TestBase:39 - before Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-01-06 15:10:05 INFO  TestBase:45 - after Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-01-06 15:10:06 INFO  TestBase:86 - Finding Element: By.cssSelector: #name
+2024-01-06 15:10:06 INFO  TestBase:92 - Finding Element: By.cssSelector: #name
+2024-01-06 15:10:06 INFO  TestBase:86 - Finding Element: By.cssSelector: #email
+2024-01-06 15:10:06 INFO  TestBase:92 - Finding Element: By.cssSelector: #email
+2024-01-06 15:10:06 INFO  TestBase:86 - Finding Element: By.cssSelector: #phone
+2024-01-06 15:10:06 INFO  TestBase:92 - Finding Element: By.cssSelector: #phone
+2024-01-06 15:10:06 INFO  TestBase:86 - Finding Element: By.cssSelector: #textarea
+2024-01-06 15:10:06 INFO  TestBase:92 - Finding Element: By.cssSelector: #textarea
+2024-01-06 15:10:06 INFO  TestBase:86 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-01-06 15:10:06 INFO  TestBase:92 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-01-06 15:10:06 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (50a650b9e5876a85476a212e52cece8f)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-01-06 15:10:06 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (50a650b9e5876a85476a212e52cece8f)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-01-06 15:10:06 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-01-06 15:10:06 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-01-06 15:10:06 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (50a650b9e5876a85476a212e52cece8f)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-01-06 15:10:06 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (50a650b9e5876a85476a212e52cece8f)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-01-06 15:10:06 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-01-06 15:10:06 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-01-06 15:10:06 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (50a650b9e5876a85476a212e52cece8f)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-01-06 15:10:06 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (50a650b9e5876a85476a212e52cece8f)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-01-06 15:10:06 INFO  TestBase:86 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-01-06 15:10:06 INFO  TestBase:92 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-01-06 15:10:06 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (50a650b9e5876a85476a212e52cece8f)] -> xpath: //a[text()="orange HRM"]]
+2024-01-06 15:10:10 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (50a650b9e5876a85476a212e52cece8f)] -> xpath: //a[text()="orange HRM"]]
+2024-01-06 15:10:11 INFO  TestBase:39 - before Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-01-06 15:10:12 INFO  TestBase:45 - after Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-01-07 09:49:43 INFO  TestBase:39 - before Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-01-07 09:49:45 INFO  TestBase:45 - after Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-01-07 09:49:46 INFO  TestBase:86 - Finding Element: By.cssSelector: #name
+2024-01-07 09:49:46 INFO  TestBase:92 - Finding Element: By.cssSelector: #name
+2024-01-07 09:49:46 INFO  TestBase:86 - Finding Element: By.cssSelector: #email
+2024-01-07 09:49:46 INFO  TestBase:92 - Finding Element: By.cssSelector: #email
+2024-01-07 09:49:46 INFO  TestBase:86 - Finding Element: By.cssSelector: #phone
+2024-01-07 09:49:46 INFO  TestBase:92 - Finding Element: By.cssSelector: #phone
+2024-01-07 09:49:46 INFO  TestBase:86 - Finding Element: By.cssSelector: #textarea
+2024-01-07 09:49:46 INFO  TestBase:92 - Finding Element: By.cssSelector: #textarea
+2024-01-07 09:49:46 INFO  TestBase:86 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-01-07 09:49:46 INFO  TestBase:92 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-01-07 09:49:46 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (85e448510718f1818638c39ad9392667)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-01-07 09:49:46 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (85e448510718f1818638c39ad9392667)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-01-07 09:49:46 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-01-07 09:49:46 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-01-07 09:49:46 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (85e448510718f1818638c39ad9392667)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-01-07 09:49:47 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (85e448510718f1818638c39ad9392667)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-01-07 09:49:47 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-01-07 09:49:47 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-01-07 09:49:47 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (85e448510718f1818638c39ad9392667)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-01-07 09:49:47 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (85e448510718f1818638c39ad9392667)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-01-07 09:49:47 INFO  TestBase:86 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-01-07 09:49:47 INFO  TestBase:92 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-01-07 09:49:47 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (85e448510718f1818638c39ad9392667)] -> xpath: //a[text()="orange HRM"]]
+2024-01-07 09:49:49 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (85e448510718f1818638c39ad9392667)] -> xpath: //a[text()="orange HRM"]]
+2024-02-17 16:35:57 INFO  TestBase:39 - before Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-02-17 16:35:59 INFO  TestBase:39 - before Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-02-17 16:35:59 INFO  TestBase:45 - after Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-02-17 16:36:00 INFO  TestBase:86 - Finding Element: By.cssSelector: #name
+2024-02-17 16:36:00 INFO  TestBase:92 - Finding Element: By.cssSelector: #name
+2024-02-17 16:36:00 INFO  TestBase:86 - Finding Element: By.cssSelector: #email
+2024-02-17 16:36:00 INFO  TestBase:92 - Finding Element: By.cssSelector: #email
+2024-02-17 16:36:00 INFO  TestBase:86 - Finding Element: By.cssSelector: #phone
+2024-02-17 16:36:00 INFO  TestBase:92 - Finding Element: By.cssSelector: #phone
+2024-02-17 16:36:00 INFO  TestBase:86 - Finding Element: By.cssSelector: #textarea
+2024-02-17 16:36:01 INFO  TestBase:92 - Finding Element: By.cssSelector: #textarea
+2024-02-17 16:36:01 INFO  TestBase:86 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-02-17 16:36:01 INFO  TestBase:92 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-02-17 16:36:01 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (5fe9d0b86bd43a4618d14922211979f2)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-02-17 16:36:01 INFO  TestBase:45 - after Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-02-17 16:36:01 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (5fe9d0b86bd43a4618d14922211979f2)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-02-17 16:36:01 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-02-17 16:36:01 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-02-17 16:36:01 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (5fe9d0b86bd43a4618d14922211979f2)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-02-17 16:36:01 INFO  TestBase:86 - Finding Element: By.cssSelector: #name
+2024-02-17 16:36:01 INFO  TestBase:92 - Finding Element: By.cssSelector: #name
+2024-02-17 16:36:01 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (5fe9d0b86bd43a4618d14922211979f2)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-02-17 16:36:01 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-02-17 16:36:01 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-02-17 16:36:01 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (5fe9d0b86bd43a4618d14922211979f2)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-02-17 16:36:01 INFO  TestBase:86 - Finding Element: By.cssSelector: #email
+2024-02-17 16:36:01 INFO  TestBase:92 - Finding Element: By.cssSelector: #email
+2024-02-17 16:36:02 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (5fe9d0b86bd43a4618d14922211979f2)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-02-17 16:36:02 INFO  TestBase:86 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-02-17 16:36:02 INFO  TestBase:92 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-02-17 16:36:02 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (5fe9d0b86bd43a4618d14922211979f2)] -> xpath: //a[text()="orange HRM"]]
+2024-02-17 16:36:02 INFO  TestBase:86 - Finding Element: By.cssSelector: #phone
+2024-02-17 16:36:02 INFO  TestBase:92 - Finding Element: By.cssSelector: #phone
+2024-02-17 16:36:02 INFO  TestBase:86 - Finding Element: By.cssSelector: #textarea
+2024-02-17 16:36:02 INFO  TestBase:92 - Finding Element: By.cssSelector: #textarea
+2024-02-17 16:36:02 INFO  TestBase:86 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-02-17 16:36:02 INFO  TestBase:92 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-02-17 16:36:02 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (615be333ad00764f90e3b0702ca5068e)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-02-17 16:36:02 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (615be333ad00764f90e3b0702ca5068e)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-02-17 16:36:02 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-02-17 16:36:02 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-02-17 16:36:02 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (615be333ad00764f90e3b0702ca5068e)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-02-17 16:36:02 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (615be333ad00764f90e3b0702ca5068e)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-02-17 16:36:02 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-02-17 16:36:02 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-02-17 16:36:02 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (615be333ad00764f90e3b0702ca5068e)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-02-17 16:36:02 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (615be333ad00764f90e3b0702ca5068e)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-02-17 16:36:02 INFO  TestBase:86 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-02-17 16:36:02 INFO  TestBase:92 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-02-17 16:36:02 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (615be333ad00764f90e3b0702ca5068e)] -> xpath: //a[text()="orange HRM"]]
+2024-02-17 16:36:04 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (5fe9d0b86bd43a4618d14922211979f2)] -> xpath: //a[text()="orange HRM"]]
+2024-02-17 16:36:05 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (615be333ad00764f90e3b0702ca5068e)] -> xpath: //a[text()="orange HRM"]]
+2024-02-19 18:33:47 INFO  TestBase:39 - before Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-02-19 18:33:49 INFO  TestBase:45 - after Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-02-19 18:33:49 INFO  TestBase:86 - Finding Element: By.cssSelector: #name
+2024-02-19 18:33:49 INFO  TestBase:92 - Finding Element: By.cssSelector: #name
+2024-02-19 18:33:49 INFO  TestBase:86 - Finding Element: By.cssSelector: #email
+2024-02-19 18:33:49 INFO  TestBase:92 - Finding Element: By.cssSelector: #email
+2024-02-19 18:33:50 INFO  TestBase:86 - Finding Element: By.cssSelector: #phone
+2024-02-19 18:33:50 INFO  TestBase:92 - Finding Element: By.cssSelector: #phone
+2024-02-19 18:33:50 INFO  TestBase:86 - Finding Element: By.cssSelector: #textarea
+2024-02-19 18:33:50 INFO  TestBase:92 - Finding Element: By.cssSelector: #textarea
+2024-02-19 18:33:50 INFO  TestBase:86 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-02-19 18:33:50 INFO  TestBase:92 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-02-19 18:33:50 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (aa305b24a03b8be66995a7fa5b0216c9)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-02-19 18:33:50 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (aa305b24a03b8be66995a7fa5b0216c9)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-02-19 18:33:50 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-02-19 18:33:50 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-02-19 18:33:50 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (aa305b24a03b8be66995a7fa5b0216c9)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-02-19 18:33:50 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (aa305b24a03b8be66995a7fa5b0216c9)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-02-19 18:33:50 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-02-19 18:33:50 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-02-19 18:33:50 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (aa305b24a03b8be66995a7fa5b0216c9)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-02-19 18:33:51 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (aa305b24a03b8be66995a7fa5b0216c9)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-02-19 18:33:51 INFO  TestBase:86 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-02-19 18:33:51 INFO  TestBase:92 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-02-19 18:33:51 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (aa305b24a03b8be66995a7fa5b0216c9)] -> xpath: //a[text()="orange HRM"]]
+2024-02-19 18:33:53 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (aa305b24a03b8be66995a7fa5b0216c9)] -> xpath: //a[text()="orange HRM"]]
+2024-02-24 12:58:54 INFO  TestBase:39 - before Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-02-24 12:58:56 INFO  TestBase:45 - after Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-02-24 12:58:58 INFO  TestBase:86 - Finding Element: By.cssSelector: #name
+2024-02-24 12:58:58 INFO  TestBase:92 - Finding Element: By.cssSelector: #name
+2024-02-24 12:58:58 INFO  TestBase:86 - Finding Element: By.cssSelector: #email
+2024-02-24 12:58:58 INFO  TestBase:92 - Finding Element: By.cssSelector: #email
+2024-02-24 12:58:59 INFO  TestBase:86 - Finding Element: By.cssSelector: #phone
+2024-02-24 12:58:59 INFO  TestBase:92 - Finding Element: By.cssSelector: #phone
+2024-02-24 12:58:59 INFO  TestBase:86 - Finding Element: By.cssSelector: #textarea
+2024-02-24 12:58:59 INFO  TestBase:92 - Finding Element: By.cssSelector: #textarea
+2024-02-24 12:58:59 INFO  TestBase:86 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-02-24 12:58:59 INFO  TestBase:92 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-02-24 12:58:59 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (47f0688aa563e28e4fba6f3a06669395)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-02-24 12:58:59 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (47f0688aa563e28e4fba6f3a06669395)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-02-24 12:58:59 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-02-24 12:58:59 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-02-24 12:58:59 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (47f0688aa563e28e4fba6f3a06669395)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-02-24 12:58:59 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (47f0688aa563e28e4fba6f3a06669395)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-02-24 12:58:59 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-02-24 12:58:59 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-02-24 12:58:59 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (47f0688aa563e28e4fba6f3a06669395)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-02-24 12:59:00 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (47f0688aa563e28e4fba6f3a06669395)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-02-24 12:59:00 INFO  TestBase:86 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-02-24 12:59:00 INFO  TestBase:92 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-02-24 12:59:00 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (47f0688aa563e28e4fba6f3a06669395)] -> xpath: //a[text()="orange HRM"]]
+2024-02-24 12:59:01 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (47f0688aa563e28e4fba6f3a06669395)] -> xpath: //a[text()="orange HRM"]]
+2024-05-03 19:12:30 INFO  TestBase:39 - before Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-03 19:12:32 INFO  TestBase:45 - after Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-03 19:12:33 INFO  TestBase:86 - Finding Element: By.cssSelector: #name
+2024-05-03 19:12:33 INFO  TestBase:92 - Finding Element: By.cssSelector: #name
+2024-05-03 19:12:33 INFO  TestBase:86 - Finding Element: By.cssSelector: #email
+2024-05-03 19:12:33 INFO  TestBase:92 - Finding Element: By.cssSelector: #email
+2024-05-03 19:12:33 INFO  TestBase:86 - Finding Element: By.cssSelector: #phone
+2024-05-03 19:12:33 INFO  TestBase:92 - Finding Element: By.cssSelector: #phone
+2024-05-03 19:12:33 INFO  TestBase:86 - Finding Element: By.cssSelector: #textarea
+2024-05-03 19:12:33 INFO  TestBase:92 - Finding Element: By.cssSelector: #textarea
+2024-05-03 19:12:34 INFO  TestBase:86 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-05-03 19:12:34 INFO  TestBase:92 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-05-03 19:12:34 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (8c9d201d07037d51cf55ff38c1ae7811)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-05-03 19:12:34 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (8c9d201d07037d51cf55ff38c1ae7811)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-05-03 19:12:34 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-05-03 19:12:34 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-05-03 19:12:34 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (8c9d201d07037d51cf55ff38c1ae7811)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-05-03 19:12:34 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (8c9d201d07037d51cf55ff38c1ae7811)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-05-03 19:12:34 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-05-03 19:12:34 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-05-03 19:12:34 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (8c9d201d07037d51cf55ff38c1ae7811)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-05-03 19:12:34 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (8c9d201d07037d51cf55ff38c1ae7811)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-05-03 19:12:34 INFO  TestBase:86 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-05-03 19:12:34 INFO  TestBase:92 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-05-03 19:12:34 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (8c9d201d07037d51cf55ff38c1ae7811)] -> xpath: //a[text()="orange HRM"]]
+2024-05-03 19:12:36 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (8c9d201d07037d51cf55ff38c1ae7811)] -> xpath: //a[text()="orange HRM"]]
+2024-05-03 19:15:58 INFO  TestBase:39 - before Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-03 19:16:00 INFO  TestBase:45 - after Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-03 19:16:00 INFO  TestBase:86 - Finding Element: By.cssSelector: #name
+2024-05-03 19:16:00 INFO  TestBase:92 - Finding Element: By.cssSelector: #name
+2024-05-03 19:16:00 INFO  TestBase:86 - Finding Element: By.cssSelector: #email
+2024-05-03 19:16:00 INFO  TestBase:92 - Finding Element: By.cssSelector: #email
+2024-05-03 19:16:01 INFO  TestBase:86 - Finding Element: By.cssSelector: #phone
+2024-05-03 19:16:01 INFO  TestBase:92 - Finding Element: By.cssSelector: #phone
+2024-05-03 19:16:01 INFO  TestBase:86 - Finding Element: By.cssSelector: #textarea
+2024-05-03 19:16:01 INFO  TestBase:92 - Finding Element: By.cssSelector: #textarea
+2024-05-03 19:16:01 INFO  TestBase:86 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-05-03 19:16:01 INFO  TestBase:92 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-05-03 19:16:01 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (0207631df491c4108dcee719943c485f)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-05-03 19:16:01 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (0207631df491c4108dcee719943c485f)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-05-03 19:16:01 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-05-03 19:16:01 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-05-03 19:16:01 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (0207631df491c4108dcee719943c485f)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-05-03 19:16:01 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (0207631df491c4108dcee719943c485f)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-05-03 19:16:01 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-05-03 19:16:01 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-05-03 19:16:01 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (0207631df491c4108dcee719943c485f)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-05-03 19:16:01 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (0207631df491c4108dcee719943c485f)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-05-03 19:16:01 INFO  TestBase:86 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-05-03 19:16:01 INFO  TestBase:92 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-05-03 19:16:01 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (0207631df491c4108dcee719943c485f)] -> xpath: //a[text()="orange HRM"]]
+2024-05-03 19:16:04 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (0207631df491c4108dcee719943c485f)] -> xpath: //a[text()="orange HRM"]]
+2024-05-03 19:43:58 INFO  TestBase:39 - before Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-03 19:44:00 INFO  TestBase:45 - after Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-03 19:44:01 INFO  TestBase:86 - Finding Element: By.cssSelector: #name
+2024-05-03 19:44:01 INFO  TestBase:92 - Finding Element: By.cssSelector: #name
+2024-05-03 19:44:01 INFO  TestBase:86 - Finding Element: By.cssSelector: #email
+2024-05-03 19:44:01 INFO  TestBase:92 - Finding Element: By.cssSelector: #email
+2024-05-03 19:44:01 INFO  TestBase:86 - Finding Element: By.cssSelector: #phone
+2024-05-03 19:44:01 INFO  TestBase:92 - Finding Element: By.cssSelector: #phone
+2024-05-03 19:44:01 INFO  TestBase:86 - Finding Element: By.cssSelector: #textarea
+2024-05-03 19:44:01 INFO  TestBase:92 - Finding Element: By.cssSelector: #textarea
+2024-05-03 19:44:02 INFO  TestBase:86 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-05-03 19:44:02 INFO  TestBase:92 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-05-03 19:44:02 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (d80dcfa55994b50edbf17a4cc51a8464)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-05-03 19:44:02 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (d80dcfa55994b50edbf17a4cc51a8464)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-05-03 19:44:02 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-05-03 19:44:02 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-05-03 19:44:02 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (d80dcfa55994b50edbf17a4cc51a8464)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-05-03 19:44:02 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (d80dcfa55994b50edbf17a4cc51a8464)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-05-03 19:44:02 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-05-03 19:44:02 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-05-03 19:44:02 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (d80dcfa55994b50edbf17a4cc51a8464)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-05-03 19:44:02 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (d80dcfa55994b50edbf17a4cc51a8464)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-05-03 19:44:02 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-03 19:44:02 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-03 19:44:02 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (d80dcfa55994b50edbf17a4cc51a8464)] -> css selector: #country]
+2024-05-03 19:44:02 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (d80dcfa55994b50edbf17a4cc51a8464)] -> css selector: #country]
+2024-05-03 19:44:02 INFO  TestBase:86 - Finding Element: By.cssSelector: #country>option:nth-of-type(6)
+2024-05-03 19:44:02 INFO  TestBase:92 - Finding Element: By.cssSelector: #country>option:nth-of-type(6)
+2024-05-03 19:49:22 INFO  TestBase:39 - before Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-03 19:49:24 INFO  TestBase:45 - after Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-03 19:49:24 INFO  TestBase:86 - Finding Element: By.cssSelector: #name
+2024-05-03 19:49:24 INFO  TestBase:92 - Finding Element: By.cssSelector: #name
+2024-05-03 19:49:25 INFO  TestBase:86 - Finding Element: By.cssSelector: #email
+2024-05-03 19:49:25 INFO  TestBase:92 - Finding Element: By.cssSelector: #email
+2024-05-03 19:49:25 INFO  TestBase:86 - Finding Element: By.cssSelector: #phone
+2024-05-03 19:49:25 INFO  TestBase:92 - Finding Element: By.cssSelector: #phone
+2024-05-03 19:49:25 INFO  TestBase:86 - Finding Element: By.cssSelector: #textarea
+2024-05-03 19:49:25 INFO  TestBase:92 - Finding Element: By.cssSelector: #textarea
+2024-05-03 19:49:25 INFO  TestBase:86 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-05-03 19:49:25 INFO  TestBase:92 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-05-03 19:49:25 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (25fef2146b3eaa56c3ce6552bcaed80b)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-05-03 19:49:26 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (25fef2146b3eaa56c3ce6552bcaed80b)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-05-03 19:49:26 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-05-03 19:49:26 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-05-03 19:49:26 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (25fef2146b3eaa56c3ce6552bcaed80b)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-05-03 19:49:26 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (25fef2146b3eaa56c3ce6552bcaed80b)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-05-03 19:49:26 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-05-03 19:49:26 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-05-03 19:49:26 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (25fef2146b3eaa56c3ce6552bcaed80b)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-05-03 19:49:26 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (25fef2146b3eaa56c3ce6552bcaed80b)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-05-03 19:49:26 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-03 19:49:26 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-03 19:49:26 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (25fef2146b3eaa56c3ce6552bcaed80b)] -> css selector: #country]
+2024-05-03 19:49:26 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (25fef2146b3eaa56c3ce6552bcaed80b)] -> css selector: #country]
+2024-05-03 19:53:54 INFO  TestBase:39 - before Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-03 19:53:56 INFO  TestBase:45 - after Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-03 19:53:56 INFO  TestBase:86 - Finding Element: By.cssSelector: #name
+2024-05-03 19:53:56 INFO  TestBase:92 - Finding Element: By.cssSelector: #name
+2024-05-03 19:53:56 INFO  TestBase:86 - Finding Element: By.cssSelector: #email
+2024-05-03 19:53:56 INFO  TestBase:92 - Finding Element: By.cssSelector: #email
+2024-05-03 19:53:57 INFO  TestBase:86 - Finding Element: By.cssSelector: #phone
+2024-05-03 19:53:57 INFO  TestBase:92 - Finding Element: By.cssSelector: #phone
+2024-05-03 19:53:57 INFO  TestBase:86 - Finding Element: By.cssSelector: #textarea
+2024-05-03 19:53:57 INFO  TestBase:92 - Finding Element: By.cssSelector: #textarea
+2024-05-03 19:53:57 INFO  TestBase:86 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-05-03 19:53:57 INFO  TestBase:92 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-05-03 19:53:57 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (ac1bd615b663687f6069122f79846340)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-05-03 19:53:57 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (ac1bd615b663687f6069122f79846340)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-05-03 19:53:57 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-05-03 19:53:57 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-05-03 19:53:57 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (ac1bd615b663687f6069122f79846340)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-05-03 19:53:58 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (ac1bd615b663687f6069122f79846340)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-05-03 19:53:58 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-05-03 19:53:58 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-05-03 19:53:58 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (ac1bd615b663687f6069122f79846340)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-05-03 19:53:58 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (ac1bd615b663687f6069122f79846340)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-05-03 19:53:58 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-03 19:53:58 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-03 19:53:58 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-03 19:53:58 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-03 19:53:58 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-03 19:53:58 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-03 19:53:58 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (ac1bd615b663687f6069122f79846340)] -> css selector: #country]
+2024-05-03 19:53:58 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (ac1bd615b663687f6069122f79846340)] -> css selector: #country]
+2024-05-03 19:53:58 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-03 19:53:58 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-03 19:53:58 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-03 19:53:58 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-03 19:53:58 INFO  TestBase:86 - Finding Element: By.xpath: .//option[normalize-space(.) = "France"]
+2024-05-03 19:53:58 INFO  TestBase:92 - Finding Element: By.xpath: .//option[normalize-space(.) = "France"]
+2024-05-03 19:53:58 INFO  TestBase:98 - beforeClicked ON: [[[[ChromeDriver: chrome on windows (ac1bd615b663687f6069122f79846340)] -> css selector: #country]] -> xpath: .//option[normalize-space(.) = "France"]]
+2024-05-03 19:53:58 INFO  TestBase:104 - afterClicked ON: [[[[ChromeDriver: chrome on windows (ac1bd615b663687f6069122f79846340)] -> css selector: #country]] -> xpath: .//option[normalize-space(.) = "France"]]
+2024-05-03 19:53:58 INFO  TestBase:86 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-05-03 19:53:58 INFO  TestBase:92 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-05-03 19:53:58 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (ac1bd615b663687f6069122f79846340)] -> xpath: //a[text()="orange HRM"]]
+2024-05-03 19:54:01 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (ac1bd615b663687f6069122f79846340)] -> xpath: //a[text()="orange HRM"]]
+2024-05-03 20:18:02 INFO  TestBase:39 - before Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-03 20:18:04 INFO  TestBase:45 - after Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-03 20:18:04 INFO  TestBase:86 - Finding Element: By.cssSelector: #name
+2024-05-03 20:18:04 INFO  TestBase:92 - Finding Element: By.cssSelector: #name
+2024-05-03 20:18:04 INFO  TestBase:86 - Finding Element: By.cssSelector: #email
+2024-05-03 20:18:05 INFO  TestBase:92 - Finding Element: By.cssSelector: #email
+2024-05-03 20:18:05 INFO  TestBase:86 - Finding Element: By.cssSelector: #phone
+2024-05-03 20:18:05 INFO  TestBase:92 - Finding Element: By.cssSelector: #phone
+2024-05-03 20:18:05 INFO  TestBase:86 - Finding Element: By.cssSelector: #textarea
+2024-05-03 20:18:05 INFO  TestBase:92 - Finding Element: By.cssSelector: #textarea
+2024-05-03 20:18:05 INFO  TestBase:86 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-05-03 20:18:05 INFO  TestBase:92 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-05-03 20:18:05 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (e8e8a756a687f18aa0b1cc2ceab1b08e)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-05-03 20:18:05 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (e8e8a756a687f18aa0b1cc2ceab1b08e)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-05-03 20:18:05 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-05-03 20:18:05 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-05-03 20:18:05 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (e8e8a756a687f18aa0b1cc2ceab1b08e)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-05-03 20:18:06 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (e8e8a756a687f18aa0b1cc2ceab1b08e)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-05-03 20:18:06 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-05-03 20:18:06 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-05-03 20:18:06 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (e8e8a756a687f18aa0b1cc2ceab1b08e)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-05-03 20:18:06 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (e8e8a756a687f18aa0b1cc2ceab1b08e)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-05-03 20:18:06 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-03 20:18:06 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-03 20:18:06 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-03 20:18:06 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-03 20:18:06 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-03 20:18:06 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-03 20:18:06 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (e8e8a756a687f18aa0b1cc2ceab1b08e)] -> css selector: #country]
+2024-05-03 20:18:06 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (e8e8a756a687f18aa0b1cc2ceab1b08e)] -> css selector: #country]
+2024-05-03 20:18:06 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-03 20:18:06 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-03 20:18:06 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-03 20:18:06 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-03 20:18:06 INFO  TestBase:86 - Finding Element: By.xpath: .//option[normalize-space(.) = "France"]
+2024-05-03 20:18:06 INFO  TestBase:92 - Finding Element: By.xpath: .//option[normalize-space(.) = "France"]
+2024-05-03 20:18:06 INFO  TestBase:98 - beforeClicked ON: [[[[ChromeDriver: chrome on windows (e8e8a756a687f18aa0b1cc2ceab1b08e)] -> css selector: #country]] -> xpath: .//option[normalize-space(.) = "France"]]
+2024-05-03 20:18:06 INFO  TestBase:104 - afterClicked ON: [[[[ChromeDriver: chrome on windows (e8e8a756a687f18aa0b1cc2ceab1b08e)] -> css selector: #country]] -> xpath: .//option[normalize-space(.) = "France"]]
+2024-05-03 20:18:06 INFO  TestBase:86 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-05-03 20:18:06 INFO  TestBase:92 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-05-03 20:18:06 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (e8e8a756a687f18aa0b1cc2ceab1b08e)] -> xpath: //a[text()="orange HRM"]]
+2024-05-03 20:18:09 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (e8e8a756a687f18aa0b1cc2ceab1b08e)] -> xpath: //a[text()="orange HRM"]]
+2024-05-03 20:18:09 INFO  TestBase:86 - Finding Element: By.cssSelector: input[name="username"]
+2024-05-03 20:18:09 INFO  TestBase:92 - Finding Element: By.cssSelector: input[name="username"]
+2024-05-03 20:18:09 INFO  TestBase:86 - Finding Element: By.cssSelector: input[name="password"]
+2024-05-03 20:18:09 INFO  TestBase:92 - Finding Element: By.cssSelector: input[name="password"]
+2024-05-03 20:18:09 INFO  TestBase:86 - Finding Element: By.cssSelector: button[type="submit"]
+2024-05-03 20:18:10 INFO  TestBase:92 - Finding Element: By.cssSelector: button[type="submit"]
+2024-05-03 20:18:10 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (e8e8a756a687f18aa0b1cc2ceab1b08e)] -> css selector: button[type="submit"]]
+2024-05-03 20:18:11 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (e8e8a756a687f18aa0b1cc2ceab1b08e)] -> css selector: button[type="submit"]]
+2024-05-03 20:18:11 INFO  TestBase:86 - Finding Element: By.cssSelector: span[class="oxd-topbar-header-breadcrumb"]>h6
+2024-05-03 20:18:11 INFO  TestBase:92 - Finding Element: By.cssSelector: span[class="oxd-topbar-header-breadcrumb"]>h6
+2024-05-03 20:18:11 INFO  TestBase:164 - beforeGetText: Dashboard
+2024-05-03 20:18:11 INFO  TestBase:170 - afterGetText: Dashboard
+2024-05-03 20:42:01 INFO  TestBase:39 - before Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-03 20:42:03 INFO  TestBase:45 - after Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-03 20:42:04 INFO  TestBase:86 - Finding Element: By.cssSelector: #name
+2024-05-03 20:42:04 INFO  TestBase:92 - Finding Element: By.cssSelector: #name
+2024-05-03 20:42:04 INFO  TestBase:86 - Finding Element: By.cssSelector: #email
+2024-05-03 20:42:04 INFO  TestBase:92 - Finding Element: By.cssSelector: #email
+2024-05-03 20:42:04 INFO  TestBase:86 - Finding Element: By.cssSelector: #phone
+2024-05-03 20:42:04 INFO  TestBase:92 - Finding Element: By.cssSelector: #phone
+2024-05-03 20:42:05 INFO  TestBase:86 - Finding Element: By.cssSelector: #textarea
+2024-05-03 20:42:05 INFO  TestBase:92 - Finding Element: By.cssSelector: #textarea
+2024-05-03 20:42:05 INFO  TestBase:86 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-05-03 20:42:05 INFO  TestBase:92 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-05-03 20:42:05 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (e706d8ace462c06f46c7fe99ab8a374c)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-05-03 20:42:06 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (e706d8ace462c06f46c7fe99ab8a374c)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-05-03 20:42:06 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-05-03 20:42:06 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-05-03 20:42:06 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (e706d8ace462c06f46c7fe99ab8a374c)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-05-03 20:42:06 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (e706d8ace462c06f46c7fe99ab8a374c)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-05-03 20:42:06 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-05-03 20:42:06 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-05-03 20:42:06 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (e706d8ace462c06f46c7fe99ab8a374c)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-05-03 20:42:06 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (e706d8ace462c06f46c7fe99ab8a374c)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-05-03 20:42:06 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-03 20:42:06 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-03 20:42:06 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-03 20:42:06 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-03 20:42:06 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-03 20:42:06 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-03 20:42:06 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (e706d8ace462c06f46c7fe99ab8a374c)] -> css selector: #country]
+2024-05-03 20:42:07 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (e706d8ace462c06f46c7fe99ab8a374c)] -> css selector: #country]
+2024-05-03 20:42:07 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-03 20:42:07 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-03 20:42:07 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-03 20:42:07 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-03 20:42:07 INFO  TestBase:86 - Finding Element: By.xpath: .//option[normalize-space(.) = "France"]
+2024-05-03 20:42:07 INFO  TestBase:92 - Finding Element: By.xpath: .//option[normalize-space(.) = "France"]
+2024-05-03 20:42:07 INFO  TestBase:98 - beforeClicked ON: [[[[ChromeDriver: chrome on windows (e706d8ace462c06f46c7fe99ab8a374c)] -> css selector: #country]] -> xpath: .//option[normalize-space(.) = "France"]]
+2024-05-03 20:42:07 INFO  TestBase:104 - afterClicked ON: [[[[ChromeDriver: chrome on windows (e706d8ace462c06f46c7fe99ab8a374c)] -> css selector: #country]] -> xpath: .//option[normalize-space(.) = "France"]]
+2024-05-03 20:42:07 INFO  TestBase:86 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-05-03 20:42:07 INFO  TestBase:92 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-05-03 20:42:07 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (e706d8ace462c06f46c7fe99ab8a374c)] -> xpath: //a[text()="orange HRM"]]
+2024-05-03 20:42:18 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (e706d8ace462c06f46c7fe99ab8a374c)] -> xpath: //a[text()="orange HRM"]]
+2024-05-03 20:42:18 INFO  TestBase:86 - Finding Element: By.cssSelector: input[name="username"]
+2024-05-03 20:42:18 INFO  TestBase:92 - Finding Element: By.cssSelector: input[name="username"]
+2024-05-03 20:42:19 INFO  TestBase:86 - Finding Element: By.cssSelector: input[name="password"]
+2024-05-03 20:42:19 INFO  TestBase:92 - Finding Element: By.cssSelector: input[name="password"]
+2024-05-03 20:42:19 INFO  TestBase:86 - Finding Element: By.cssSelector: button[type="submit"]
+2024-05-03 20:42:19 INFO  TestBase:92 - Finding Element: By.cssSelector: button[type="submit"]
+2024-05-03 20:42:19 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (e706d8ace462c06f46c7fe99ab8a374c)] -> css selector: button[type="submit"]]
+2024-05-03 20:42:19 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (e706d8ace462c06f46c7fe99ab8a374c)] -> css selector: button[type="submit"]]
+2024-05-03 20:42:19 INFO  TestBase:86 - Finding Element: By.cssSelector: span[class="oxd-topbar-header-breadcrumb"]>h6
+2024-05-03 20:42:21 INFO  TestBase:92 - Finding Element: By.cssSelector: span[class="oxd-topbar-header-breadcrumb"]>h6
+2024-05-03 20:42:21 INFO  TestBase:164 - beforeGetText: Dashboard
+2024-05-03 20:42:21 INFO  TestBase:170 - afterGetText: Dashboard
+2024-05-03 23:48:11 INFO  TestBase:39 - before Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-03 23:48:13 INFO  TestBase:45 - after Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-03 23:48:13 INFO  TestBase:86 - Finding Element: By.cssSelector: #datepicker
+2024-05-03 23:48:13 INFO  TestBase:92 - Finding Element: By.cssSelector: #datepicker
+2024-05-03 23:48:13 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (5f74d1c9fb0ba67123f7f4ad773bc426)] -> css selector: #datepicker]
+2024-05-03 23:48:13 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (5f74d1c9fb0ba67123f7f4ad773bc426)] -> css selector: #datepicker]
+2024-05-03 23:48:13 INFO  TestBase:86 - Finding Element: By.cssSelector: ui-datepicker-month
+2024-05-04 11:41:05 INFO  TestBase:39 - before Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-04 11:41:07 INFO  TestBase:45 - after Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-04 11:41:07 INFO  TestBase:86 - Finding Element: By.cssSelector: #draggable
+2024-05-04 11:41:07 INFO  TestBase:92 - Finding Element: By.cssSelector: #draggable
+2024-05-04 11:41:07 INFO  TestBase:86 - Finding Element: By.cssSelector: #droppable
+2024-05-04 11:41:07 INFO  TestBase:92 - Finding Element: By.cssSelector: #droppable
+2024-05-04 11:48:22 INFO  TestBase:39 - before Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-04 11:48:24 INFO  TestBase:45 - after Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-04 11:48:24 INFO  TestBase:86 - Finding Element: By.cssSelector: #draggable
+2024-05-04 11:48:24 INFO  TestBase:92 - Finding Element: By.cssSelector: #draggable
+2024-05-04 11:48:24 INFO  TestBase:86 - Finding Element: By.cssSelector: #droppable
+2024-05-04 11:48:24 INFO  TestBase:92 - Finding Element: By.cssSelector: #droppable
+2024-05-04 11:48:26 INFO  TestBase:39 - before Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-04 11:48:28 INFO  TestBase:45 - after Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-04 11:48:28 INFO  TestBase:86 - Finding Element: By.cssSelector: #name
+2024-05-04 11:48:28 INFO  TestBase:92 - Finding Element: By.cssSelector: #name
+2024-05-04 11:48:28 INFO  TestBase:86 - Finding Element: By.cssSelector: #email
+2024-05-04 11:48:28 INFO  TestBase:92 - Finding Element: By.cssSelector: #email
+2024-05-04 11:48:28 INFO  TestBase:86 - Finding Element: By.cssSelector: #phone
+2024-05-04 11:48:29 INFO  TestBase:92 - Finding Element: By.cssSelector: #phone
+2024-05-04 11:48:29 INFO  TestBase:86 - Finding Element: By.cssSelector: #textarea
+2024-05-04 11:48:29 INFO  TestBase:92 - Finding Element: By.cssSelector: #textarea
+2024-05-04 11:48:29 INFO  TestBase:86 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-05-04 11:48:29 INFO  TestBase:92 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-05-04 11:48:29 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (dd117ee598ac40308c0d53161bf0132b)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-05-04 11:48:29 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (dd117ee598ac40308c0d53161bf0132b)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-05-04 11:48:29 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-05-04 11:48:29 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-05-04 11:48:29 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (dd117ee598ac40308c0d53161bf0132b)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-05-04 11:48:29 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (dd117ee598ac40308c0d53161bf0132b)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-05-04 11:48:29 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-05-04 11:48:29 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-05-04 11:48:29 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (dd117ee598ac40308c0d53161bf0132b)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-05-04 11:48:29 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (dd117ee598ac40308c0d53161bf0132b)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-05-04 11:48:29 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-04 11:48:29 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-04 11:48:29 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-04 11:48:29 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-04 11:48:29 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-04 11:48:30 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-04 11:48:30 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (dd117ee598ac40308c0d53161bf0132b)] -> css selector: #country]
+2024-05-04 11:48:30 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (dd117ee598ac40308c0d53161bf0132b)] -> css selector: #country]
+2024-05-04 11:48:30 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-04 11:48:30 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-04 11:48:30 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-04 11:48:30 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-04 11:48:30 INFO  TestBase:86 - Finding Element: By.xpath: .//option[normalize-space(.) = "France"]
+2024-05-04 11:48:30 INFO  TestBase:92 - Finding Element: By.xpath: .//option[normalize-space(.) = "France"]
+2024-05-04 11:48:30 INFO  TestBase:98 - beforeClicked ON: [[[[ChromeDriver: chrome on windows (dd117ee598ac40308c0d53161bf0132b)] -> css selector: #country]] -> xpath: .//option[normalize-space(.) = "France"]]
+2024-05-04 11:48:30 INFO  TestBase:104 - afterClicked ON: [[[[ChromeDriver: chrome on windows (dd117ee598ac40308c0d53161bf0132b)] -> css selector: #country]] -> xpath: .//option[normalize-space(.) = "France"]]
+2024-05-04 11:48:30 INFO  TestBase:86 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-05-04 11:48:30 INFO  TestBase:92 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-05-04 11:48:30 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (dd117ee598ac40308c0d53161bf0132b)] -> xpath: //a[text()="orange HRM"]]
+2024-05-04 11:48:34 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (dd117ee598ac40308c0d53161bf0132b)] -> xpath: //a[text()="orange HRM"]]
+2024-05-04 11:48:34 INFO  TestBase:86 - Finding Element: By.cssSelector: input[name="username"]
+2024-05-04 11:48:34 INFO  TestBase:92 - Finding Element: By.cssSelector: input[name="username"]
+2024-05-04 11:48:34 INFO  TestBase:86 - Finding Element: By.cssSelector: input[name="password"]
+2024-05-04 11:48:34 INFO  TestBase:92 - Finding Element: By.cssSelector: input[name="password"]
+2024-05-04 11:48:34 INFO  TestBase:86 - Finding Element: By.cssSelector: button[type="submit"]
+2024-05-04 11:48:34 INFO  TestBase:92 - Finding Element: By.cssSelector: button[type="submit"]
+2024-05-04 11:48:34 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (dd117ee598ac40308c0d53161bf0132b)] -> css selector: button[type="submit"]]
+2024-05-04 11:48:36 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (dd117ee598ac40308c0d53161bf0132b)] -> css selector: button[type="submit"]]
+2024-05-04 11:48:36 INFO  TestBase:86 - Finding Element: By.cssSelector: span[class="oxd-topbar-header-breadcrumb"]>h6
+2024-05-04 11:48:36 INFO  TestBase:92 - Finding Element: By.cssSelector: span[class="oxd-topbar-header-breadcrumb"]>h6
+2024-05-04 11:48:36 INFO  TestBase:164 - beforeGetText: Dashboard
+2024-05-04 11:48:36 INFO  TestBase:170 - afterGetText: Dashboard
+2024-05-04 12:07:34 INFO  TestBase:39 - before Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-04 12:07:37 INFO  TestBase:45 - after Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-04 12:07:38 INFO  TestBase:39 - before Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-04 12:07:40 INFO  TestBase:45 - after Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-04 12:07:40 INFO  TestBase:86 - Finding Element: By.cssSelector: #draggable
+2024-05-04 12:07:40 INFO  TestBase:92 - Finding Element: By.cssSelector: #draggable
+2024-05-04 12:07:40 INFO  TestBase:86 - Finding Element: By.cssSelector: #droppable
+2024-05-04 12:07:40 INFO  TestBase:92 - Finding Element: By.cssSelector: #droppable
+2024-05-04 12:33:47 INFO  TestBase:39 - before Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-04 12:33:49 INFO  TestBase:45 - after Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-04 12:33:49 INFO  TestBase:86 - Finding Element: By.cssSelector: #name
+2024-05-04 12:33:49 INFO  TestBase:92 - Finding Element: By.cssSelector: #name
+2024-05-04 12:33:50 INFO  TestBase:86 - Finding Element: By.cssSelector: #email
+2024-05-04 12:33:50 INFO  TestBase:92 - Finding Element: By.cssSelector: #email
+2024-05-04 12:33:50 INFO  TestBase:86 - Finding Element: By.cssSelector: #phone
+2024-05-04 12:33:50 INFO  TestBase:92 - Finding Element: By.cssSelector: #phone
+2024-05-04 12:33:50 INFO  TestBase:86 - Finding Element: By.cssSelector: #textarea
+2024-05-04 12:33:50 INFO  TestBase:92 - Finding Element: By.cssSelector: #textarea
+2024-05-04 12:33:50 INFO  TestBase:86 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-05-04 12:33:50 INFO  TestBase:92 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-05-04 12:33:50 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (d2ecce53ef392fefcb74d27163aed595)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-05-04 12:33:50 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (d2ecce53ef392fefcb74d27163aed595)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-05-04 12:33:50 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-05-04 12:33:50 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-05-04 12:33:50 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (d2ecce53ef392fefcb74d27163aed595)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-05-04 12:33:51 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (d2ecce53ef392fefcb74d27163aed595)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-05-04 12:33:51 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-05-04 12:33:51 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-05-04 12:33:51 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (d2ecce53ef392fefcb74d27163aed595)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-05-04 12:33:51 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (d2ecce53ef392fefcb74d27163aed595)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-05-04 12:33:51 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-04 12:33:51 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-04 12:33:51 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-04 12:33:51 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-04 12:33:51 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-04 12:33:51 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-04 12:33:51 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (d2ecce53ef392fefcb74d27163aed595)] -> css selector: #country]
+2024-05-04 12:33:51 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (d2ecce53ef392fefcb74d27163aed595)] -> css selector: #country]
+2024-05-04 12:33:51 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-04 12:33:51 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-04 12:33:51 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-04 12:33:51 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-04 12:33:51 INFO  TestBase:86 - Finding Element: By.xpath: .//option[normalize-space(.) = "France"]
+2024-05-04 12:33:51 INFO  TestBase:92 - Finding Element: By.xpath: .//option[normalize-space(.) = "France"]
+2024-05-04 12:33:51 INFO  TestBase:98 - beforeClicked ON: [[[[ChromeDriver: chrome on windows (d2ecce53ef392fefcb74d27163aed595)] -> css selector: #country]] -> xpath: .//option[normalize-space(.) = "France"]]
+2024-05-04 12:33:51 INFO  TestBase:104 - afterClicked ON: [[[[ChromeDriver: chrome on windows (d2ecce53ef392fefcb74d27163aed595)] -> css selector: #country]] -> xpath: .//option[normalize-space(.) = "France"]]
+2024-05-04 12:33:51 INFO  TestBase:86 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-05-04 12:33:51 INFO  TestBase:92 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-05-04 12:33:51 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (d2ecce53ef392fefcb74d27163aed595)] -> xpath: //a[text()="orange HRM"]]
+2024-05-04 12:33:54 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (d2ecce53ef392fefcb74d27163aed595)] -> xpath: //a[text()="orange HRM"]]
+2024-05-04 12:33:54 INFO  TestBase:86 - Finding Element: By.cssSelector: input[name="username"]
+2024-05-04 12:33:55 INFO  TestBase:92 - Finding Element: By.cssSelector: input[name="username"]
+2024-05-04 12:33:55 INFO  TestBase:86 - Finding Element: By.cssSelector: input[name="password"]
+2024-05-04 12:33:55 INFO  TestBase:92 - Finding Element: By.cssSelector: input[name="password"]
+2024-05-04 12:33:55 INFO  TestBase:86 - Finding Element: By.cssSelector: button[type="submit"]
+2024-05-04 12:33:55 INFO  TestBase:92 - Finding Element: By.cssSelector: button[type="submit"]
+2024-05-04 12:33:55 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (d2ecce53ef392fefcb74d27163aed595)] -> css selector: button[type="submit"]]
+2024-05-04 12:33:56 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (d2ecce53ef392fefcb74d27163aed595)] -> css selector: button[type="submit"]]
+2024-05-04 12:33:56 INFO  TestBase:86 - Finding Element: By.cssSelector: span[class="oxd-topbar-header-breadcrumb"]>h6
+2024-05-04 12:33:57 INFO  TestBase:92 - Finding Element: By.cssSelector: span[class="oxd-topbar-header-breadcrumb"]>h6
+2024-05-04 12:33:57 INFO  TestBase:164 - beforeGetText: Dashboard
+2024-05-04 12:33:57 INFO  TestBase:170 - afterGetText: Dashboard
+2024-05-04 12:37:45 INFO  TestBase:39 - before Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-04 12:37:48 INFO  TestBase:45 - after Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-04 12:37:48 INFO  TestBase:86 - Finding Element: By.cssSelector: #name
+2024-05-04 12:37:48 INFO  TestBase:92 - Finding Element: By.cssSelector: #name
+2024-05-04 12:37:48 INFO  TestBase:86 - Finding Element: By.cssSelector: #email
+2024-05-04 12:37:48 INFO  TestBase:92 - Finding Element: By.cssSelector: #email
+2024-05-04 12:37:48 INFO  TestBase:86 - Finding Element: By.cssSelector: #phone
+2024-05-04 12:37:49 INFO  TestBase:92 - Finding Element: By.cssSelector: #phone
+2024-05-04 12:37:49 INFO  TestBase:86 - Finding Element: By.cssSelector: #textarea
+2024-05-04 12:37:49 INFO  TestBase:92 - Finding Element: By.cssSelector: #textarea
+2024-05-04 12:37:49 INFO  TestBase:86 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-05-04 12:37:49 INFO  TestBase:92 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-05-04 12:37:49 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (6e8fdeddabced1be6ee57a4d51e5f4b0)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-05-04 12:37:49 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (6e8fdeddabced1be6ee57a4d51e5f4b0)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-05-04 12:37:49 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-05-04 12:37:49 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-05-04 12:37:49 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (6e8fdeddabced1be6ee57a4d51e5f4b0)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-05-04 12:37:49 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (6e8fdeddabced1be6ee57a4d51e5f4b0)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-05-04 12:37:49 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-05-04 12:37:49 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-05-04 12:37:49 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (6e8fdeddabced1be6ee57a4d51e5f4b0)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-05-04 12:37:50 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (6e8fdeddabced1be6ee57a4d51e5f4b0)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-05-04 12:37:50 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-04 12:37:50 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-04 12:37:50 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-04 12:37:50 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-04 12:37:50 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-04 12:37:50 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-04 12:37:50 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (6e8fdeddabced1be6ee57a4d51e5f4b0)] -> css selector: #country]
+2024-05-04 12:37:50 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (6e8fdeddabced1be6ee57a4d51e5f4b0)] -> css selector: #country]
+2024-05-04 12:37:50 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-04 12:37:50 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-04 12:37:50 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-04 12:37:50 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-04 12:37:50 INFO  TestBase:86 - Finding Element: By.xpath: .//option[normalize-space(.) = "France"]
+2024-05-04 12:37:50 INFO  TestBase:92 - Finding Element: By.xpath: .//option[normalize-space(.) = "France"]
+2024-05-04 12:37:50 INFO  TestBase:98 - beforeClicked ON: [[[[ChromeDriver: chrome on windows (6e8fdeddabced1be6ee57a4d51e5f4b0)] -> css selector: #country]] -> xpath: .//option[normalize-space(.) = "France"]]
+2024-05-04 12:37:50 INFO  TestBase:104 - afterClicked ON: [[[[ChromeDriver: chrome on windows (6e8fdeddabced1be6ee57a4d51e5f4b0)] -> css selector: #country]] -> xpath: .//option[normalize-space(.) = "France"]]
+2024-05-04 12:37:50 INFO  TestBase:86 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-05-04 12:37:50 INFO  TestBase:92 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-05-04 12:37:50 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (6e8fdeddabced1be6ee57a4d51e5f4b0)] -> xpath: //a[text()="orange HRM"]]
+2024-05-04 12:37:54 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (6e8fdeddabced1be6ee57a4d51e5f4b0)] -> xpath: //a[text()="orange HRM"]]
+2024-05-04 12:37:54 INFO  TestBase:86 - Finding Element: By.cssSelector: input[name="username"]
+2024-05-04 12:37:54 INFO  TestBase:92 - Finding Element: By.cssSelector: input[name="username"]
+2024-05-04 12:37:54 INFO  TestBase:86 - Finding Element: By.cssSelector: input[name="password"]
+2024-05-04 12:37:54 INFO  TestBase:92 - Finding Element: By.cssSelector: input[name="password"]
+2024-05-04 12:37:54 INFO  TestBase:86 - Finding Element: By.cssSelector: button[type="submit"]
+2024-05-04 12:37:55 INFO  TestBase:92 - Finding Element: By.cssSelector: button[type="submit"]
+2024-05-04 12:37:55 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (6e8fdeddabced1be6ee57a4d51e5f4b0)] -> css selector: button[type="submit"]]
+2024-05-04 12:37:56 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (6e8fdeddabced1be6ee57a4d51e5f4b0)] -> css selector: button[type="submit"]]
+2024-05-04 12:37:56 INFO  TestBase:86 - Finding Element: By.cssSelector: span[class="oxd-topbar-header-breadcrumb"]>h6
+2024-05-04 12:37:56 INFO  TestBase:92 - Finding Element: By.cssSelector: span[class="oxd-topbar-header-breadcrumb"]>h6
+2024-05-04 12:37:56 INFO  TestBase:164 - beforeGetText: Dashboard
+2024-05-04 12:37:56 INFO  TestBase:170 - afterGetText: Dashboard
+2024-05-04 12:39:28 INFO  TestBase:39 - before Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-04 12:39:30 INFO  TestBase:45 - after Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-04 12:39:30 INFO  TestBase:86 - Finding Element: By.cssSelector: #draggable
+2024-05-04 12:39:30 INFO  TestBase:92 - Finding Element: By.cssSelector: #draggable
+2024-05-04 12:39:30 INFO  TestBase:86 - Finding Element: By.cssSelector: #droppable
+2024-05-04 12:39:30 INFO  TestBase:92 - Finding Element: By.cssSelector: #droppable
+2024-05-04 12:39:31 INFO  TestBase:86 - Finding Element: By.cssSelector: #name
+2024-05-04 12:39:31 INFO  TestBase:92 - Finding Element: By.cssSelector: #name
+2024-05-04 12:39:31 INFO  TestBase:86 - Finding Element: By.cssSelector: #email
+2024-05-04 12:39:31 INFO  TestBase:92 - Finding Element: By.cssSelector: #email
+2024-05-04 12:39:31 INFO  TestBase:86 - Finding Element: By.cssSelector: #phone
+2024-05-04 12:39:31 INFO  TestBase:92 - Finding Element: By.cssSelector: #phone
+2024-05-04 12:39:31 INFO  TestBase:86 - Finding Element: By.cssSelector: #textarea
+2024-05-04 12:39:32 INFO  TestBase:92 - Finding Element: By.cssSelector: #textarea
+2024-05-04 12:39:32 INFO  TestBase:86 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-05-04 12:39:32 INFO  TestBase:92 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-05-04 12:39:32 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (9908162ecde0308dc1e5c864a82d5b92)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-05-04 12:39:32 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (9908162ecde0308dc1e5c864a82d5b92)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-05-04 12:39:32 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-05-04 12:39:32 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-05-04 12:39:32 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (9908162ecde0308dc1e5c864a82d5b92)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-05-04 12:39:32 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (9908162ecde0308dc1e5c864a82d5b92)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-05-04 12:39:32 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-05-04 12:39:32 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-05-04 12:39:32 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (9908162ecde0308dc1e5c864a82d5b92)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-05-04 12:39:32 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (9908162ecde0308dc1e5c864a82d5b92)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-05-04 12:39:32 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-04 12:39:32 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-04 12:39:32 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-04 12:39:32 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-04 12:39:32 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-04 12:39:32 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-04 12:39:32 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (9908162ecde0308dc1e5c864a82d5b92)] -> css selector: #country]
+2024-05-04 12:39:33 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (9908162ecde0308dc1e5c864a82d5b92)] -> css selector: #country]
+2024-05-04 12:39:33 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-04 12:39:33 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-04 12:39:33 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-04 12:39:33 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-04 12:39:33 INFO  TestBase:86 - Finding Element: By.xpath: .//option[normalize-space(.) = "France"]
+2024-05-04 12:39:33 INFO  TestBase:92 - Finding Element: By.xpath: .//option[normalize-space(.) = "France"]
+2024-05-04 12:39:33 INFO  TestBase:98 - beforeClicked ON: [[[[ChromeDriver: chrome on windows (9908162ecde0308dc1e5c864a82d5b92)] -> css selector: #country]] -> xpath: .//option[normalize-space(.) = "France"]]
+2024-05-04 12:39:33 INFO  TestBase:104 - afterClicked ON: [[[[ChromeDriver: chrome on windows (9908162ecde0308dc1e5c864a82d5b92)] -> css selector: #country]] -> xpath: .//option[normalize-space(.) = "France"]]
+2024-05-04 12:39:33 INFO  TestBase:86 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-05-04 12:39:33 INFO  TestBase:92 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-05-04 12:39:33 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (9908162ecde0308dc1e5c864a82d5b92)] -> xpath: //a[text()="orange HRM"]]
+2024-05-04 12:39:36 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (9908162ecde0308dc1e5c864a82d5b92)] -> xpath: //a[text()="orange HRM"]]
+2024-05-04 12:39:36 INFO  TestBase:86 - Finding Element: By.cssSelector: input[name="username"]
+2024-05-04 12:39:37 INFO  TestBase:92 - Finding Element: By.cssSelector: input[name="username"]
+2024-05-04 12:39:37 INFO  TestBase:86 - Finding Element: By.cssSelector: input[name="password"]
+2024-05-04 12:39:37 INFO  TestBase:92 - Finding Element: By.cssSelector: input[name="password"]
+2024-05-04 12:39:37 INFO  TestBase:86 - Finding Element: By.cssSelector: button[type="submit"]
+2024-05-04 12:39:37 INFO  TestBase:92 - Finding Element: By.cssSelector: button[type="submit"]
+2024-05-04 12:39:37 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (9908162ecde0308dc1e5c864a82d5b92)] -> css selector: button[type="submit"]]
+2024-05-04 12:39:37 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (9908162ecde0308dc1e5c864a82d5b92)] -> css selector: button[type="submit"]]
+2024-05-04 12:39:37 INFO  TestBase:86 - Finding Element: By.cssSelector: span[class="oxd-topbar-header-breadcrumb"]>h6
+2024-05-04 12:39:39 INFO  TestBase:92 - Finding Element: By.cssSelector: span[class="oxd-topbar-header-breadcrumb"]>h6
+2024-05-04 12:39:39 INFO  TestBase:164 - beforeGetText: Dashboard
+2024-05-04 12:39:39 INFO  TestBase:170 - afterGetText: Dashboard
+2024-05-04 12:41:59 INFO  TestBase:39 - before Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-04 12:42:01 INFO  TestBase:45 - after Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-04 12:42:01 INFO  TestBase:86 - Finding Element: By.cssSelector: #draggable
+2024-05-04 12:42:01 INFO  TestBase:92 - Finding Element: By.cssSelector: #draggable
+2024-05-04 12:42:01 INFO  TestBase:86 - Finding Element: By.cssSelector: #droppable
+2024-05-04 12:42:01 INFO  TestBase:92 - Finding Element: By.cssSelector: #droppable
+2024-05-04 12:42:21 INFO  TestBase:39 - before Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-04 12:42:23 INFO  TestBase:45 - after Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-04 12:42:23 INFO  TestBase:86 - Finding Element: By.cssSelector: #name
+2024-05-04 12:42:23 INFO  TestBase:92 - Finding Element: By.cssSelector: #name
+2024-05-04 12:42:23 INFO  TestBase:86 - Finding Element: By.cssSelector: #email
+2024-05-04 12:42:23 INFO  TestBase:92 - Finding Element: By.cssSelector: #email
+2024-05-04 12:42:24 INFO  TestBase:86 - Finding Element: By.cssSelector: #phone
+2024-05-04 12:42:24 INFO  TestBase:92 - Finding Element: By.cssSelector: #phone
+2024-05-04 12:42:24 INFO  TestBase:86 - Finding Element: By.cssSelector: #textarea
+2024-05-04 12:42:24 INFO  TestBase:92 - Finding Element: By.cssSelector: #textarea
+2024-05-04 12:42:24 INFO  TestBase:86 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-05-04 12:42:24 INFO  TestBase:92 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-05-04 12:42:24 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (d0cacfe52bfe66d3fdbe08eea4dc643e)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-05-04 12:42:24 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (d0cacfe52bfe66d3fdbe08eea4dc643e)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-05-04 12:42:24 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-05-04 12:42:24 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-05-04 12:42:24 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (d0cacfe52bfe66d3fdbe08eea4dc643e)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-05-04 12:42:24 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (d0cacfe52bfe66d3fdbe08eea4dc643e)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-05-04 12:42:24 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-05-04 12:42:24 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-05-04 12:42:24 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (d0cacfe52bfe66d3fdbe08eea4dc643e)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-05-04 12:42:24 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (d0cacfe52bfe66d3fdbe08eea4dc643e)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-05-04 12:42:24 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-04 12:42:24 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-04 12:42:24 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-04 12:42:24 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-04 12:42:24 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-04 12:42:24 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-04 12:42:24 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (d0cacfe52bfe66d3fdbe08eea4dc643e)] -> css selector: #country]
+2024-05-04 12:42:25 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (d0cacfe52bfe66d3fdbe08eea4dc643e)] -> css selector: #country]
+2024-05-04 12:42:25 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-04 12:42:25 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-04 12:42:25 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-04 12:42:25 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-04 12:42:25 INFO  TestBase:86 - Finding Element: By.xpath: .//option[normalize-space(.) = "France"]
+2024-05-04 12:42:25 INFO  TestBase:92 - Finding Element: By.xpath: .//option[normalize-space(.) = "France"]
+2024-05-04 12:42:25 INFO  TestBase:98 - beforeClicked ON: [[[[ChromeDriver: chrome on windows (d0cacfe52bfe66d3fdbe08eea4dc643e)] -> css selector: #country]] -> xpath: .//option[normalize-space(.) = "France"]]
+2024-05-04 12:42:25 INFO  TestBase:104 - afterClicked ON: [[[[ChromeDriver: chrome on windows (d0cacfe52bfe66d3fdbe08eea4dc643e)] -> css selector: #country]] -> xpath: .//option[normalize-space(.) = "France"]]
+2024-05-04 12:42:25 INFO  TestBase:86 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-05-04 12:42:25 INFO  TestBase:92 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-05-04 12:42:25 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (d0cacfe52bfe66d3fdbe08eea4dc643e)] -> xpath: //a[text()="orange HRM"]]
+2024-05-04 12:42:35 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (d0cacfe52bfe66d3fdbe08eea4dc643e)] -> xpath: //a[text()="orange HRM"]]
+2024-05-04 12:42:35 INFO  TestBase:86 - Finding Element: By.cssSelector: input[name="username"]
+2024-05-04 12:42:35 INFO  TestBase:92 - Finding Element: By.cssSelector: input[name="username"]
+2024-05-04 12:42:36 INFO  TestBase:86 - Finding Element: By.cssSelector: input[name="password"]
+2024-05-04 12:42:36 INFO  TestBase:92 - Finding Element: By.cssSelector: input[name="password"]
+2024-05-04 12:42:36 INFO  TestBase:86 - Finding Element: By.cssSelector: button[type="submit"]
+2024-05-04 12:42:36 INFO  TestBase:92 - Finding Element: By.cssSelector: button[type="submit"]
+2024-05-04 12:42:36 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (d0cacfe52bfe66d3fdbe08eea4dc643e)] -> css selector: button[type="submit"]]
+2024-05-04 12:42:37 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (d0cacfe52bfe66d3fdbe08eea4dc643e)] -> css selector: button[type="submit"]]
+2024-05-04 12:42:37 INFO  TestBase:86 - Finding Element: By.cssSelector: span[class="oxd-topbar-header-breadcrumb"]>h6
+2024-05-04 12:42:38 INFO  TestBase:92 - Finding Element: By.cssSelector: span[class="oxd-topbar-header-breadcrumb"]>h6
+2024-05-04 12:42:38 INFO  TestBase:164 - beforeGetText: Dashboard
+2024-05-04 12:42:38 INFO  TestBase:170 - afterGetText: Dashboard
+2024-05-04 12:42:39 INFO  TestBase:39 - before Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-04 12:42:42 INFO  TestBase:45 - after Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-04 12:42:42 INFO  TestBase:86 - Finding Element: By.cssSelector: #draggable
+2024-05-04 12:42:42 INFO  TestBase:92 - Finding Element: By.cssSelector: #draggable
+2024-05-04 12:42:42 INFO  TestBase:86 - Finding Element: By.cssSelector: #droppable
+2024-05-04 12:42:42 INFO  TestBase:92 - Finding Element: By.cssSelector: #droppable
+2024-05-04 22:06:05 INFO  TestBase:39 - before Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-04 22:06:07 INFO  TestBase:45 - after Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-04 22:06:07 INFO  TestBase:86 - Finding Element: By.cssSelector: #name
+2024-05-04 22:06:07 INFO  TestBase:92 - Finding Element: By.cssSelector: #name
+2024-05-04 22:06:07 INFO  TestBase:86 - Finding Element: By.cssSelector: #email
+2024-05-04 22:06:07 INFO  TestBase:92 - Finding Element: By.cssSelector: #email
+2024-05-04 22:06:08 INFO  TestBase:86 - Finding Element: By.cssSelector: #phone
+2024-05-04 22:06:08 INFO  TestBase:92 - Finding Element: By.cssSelector: #phone
+2024-05-04 22:06:08 INFO  TestBase:86 - Finding Element: By.cssSelector: #textarea
+2024-05-04 22:06:08 INFO  TestBase:92 - Finding Element: By.cssSelector: #textarea
+2024-05-04 22:06:08 INFO  TestBase:86 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-05-04 22:06:08 INFO  TestBase:92 - Finding Element: By.xpath: (//div[@class="form-check form-check-inline"])[1]//child::input
+2024-05-04 22:06:08 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (08a6ad76999a54f1010dd6f0a99a36f8)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-05-04 22:06:08 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (08a6ad76999a54f1010dd6f0a99a36f8)] -> xpath: (//div[@class="form-check form-check-inline"])[1]//child::input]
+2024-05-04 22:06:08 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-05-04 22:06:08 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]
+2024-05-04 22:06:08 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (08a6ad76999a54f1010dd6f0a99a36f8)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-05-04 22:06:09 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (08a6ad76999a54f1010dd6f0a99a36f8)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[1]]
+2024-05-04 22:06:09 INFO  TestBase:86 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-05-04 22:06:09 INFO  TestBase:92 - Finding Element: By.xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]
+2024-05-04 22:06:09 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (08a6ad76999a54f1010dd6f0a99a36f8)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-05-04 22:06:09 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (08a6ad76999a54f1010dd6f0a99a36f8)] -> xpath: ((//div[@class="form-group"])[4]//child::div//child::input)[2]]
+2024-05-04 22:06:09 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-04 22:06:09 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-04 22:06:09 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-04 22:06:09 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-04 22:06:09 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-04 22:06:09 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-04 22:06:09 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (08a6ad76999a54f1010dd6f0a99a36f8)] -> css selector: #country]
+2024-05-04 22:06:09 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (08a6ad76999a54f1010dd6f0a99a36f8)] -> css selector: #country]
+2024-05-04 22:06:09 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-04 22:06:09 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-04 22:06:09 INFO  TestBase:86 - Finding Element: By.cssSelector: #country
+2024-05-04 22:06:09 INFO  TestBase:92 - Finding Element: By.cssSelector: #country
+2024-05-04 22:06:09 INFO  TestBase:86 - Finding Element: By.xpath: .//option[normalize-space(.) = "France"]
+2024-05-04 22:06:09 INFO  TestBase:92 - Finding Element: By.xpath: .//option[normalize-space(.) = "France"]
+2024-05-04 22:06:09 INFO  TestBase:98 - beforeClicked ON: [[[[ChromeDriver: chrome on windows (08a6ad76999a54f1010dd6f0a99a36f8)] -> css selector: #country]] -> xpath: .//option[normalize-space(.) = "France"]]
+2024-05-04 22:06:09 INFO  TestBase:104 - afterClicked ON: [[[[ChromeDriver: chrome on windows (08a6ad76999a54f1010dd6f0a99a36f8)] -> css selector: #country]] -> xpath: .//option[normalize-space(.) = "France"]]
+2024-05-04 22:06:09 INFO  TestBase:86 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-05-04 22:06:09 INFO  TestBase:92 - Finding Element: By.xpath: //a[text()="orange HRM"]
+2024-05-04 22:06:09 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (08a6ad76999a54f1010dd6f0a99a36f8)] -> xpath: //a[text()="orange HRM"]]
+2024-05-04 22:06:12 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (08a6ad76999a54f1010dd6f0a99a36f8)] -> xpath: //a[text()="orange HRM"]]
+2024-05-04 22:06:12 INFO  TestBase:86 - Finding Element: By.cssSelector: input[name="username"]
+2024-05-04 22:06:13 INFO  TestBase:92 - Finding Element: By.cssSelector: input[name="username"]
+2024-05-04 22:06:13 INFO  TestBase:86 - Finding Element: By.cssSelector: input[name="password"]
+2024-05-04 22:06:13 INFO  TestBase:92 - Finding Element: By.cssSelector: input[name="password"]
+2024-05-04 22:06:13 INFO  TestBase:86 - Finding Element: By.cssSelector: button[type="submit"]
+2024-05-04 22:06:13 INFO  TestBase:92 - Finding Element: By.cssSelector: button[type="submit"]
+2024-05-04 22:06:13 INFO  TestBase:98 - beforeClicked ON: [[ChromeDriver: chrome on windows (08a6ad76999a54f1010dd6f0a99a36f8)] -> css selector: button[type="submit"]]
+2024-05-04 22:06:13 INFO  TestBase:104 - afterClicked ON: [[ChromeDriver: chrome on windows (08a6ad76999a54f1010dd6f0a99a36f8)] -> css selector: button[type="submit"]]
+2024-05-04 22:06:13 INFO  TestBase:86 - Finding Element: By.cssSelector: span[class="oxd-topbar-header-breadcrumb"]>h6
+2024-05-04 22:06:15 INFO  TestBase:92 - Finding Element: By.cssSelector: span[class="oxd-topbar-header-breadcrumb"]>h6
+2024-05-04 22:06:15 INFO  TestBase:164 - beforeGetText: Dashboard
+2024-05-04 22:06:15 INFO  TestBase:170 - afterGetText: Dashboard
+2024-05-04 22:06:16 INFO  TestBase:39 - before Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-04 22:06:18 INFO  TestBase:45 - after Navigating to URL: https://testautomationpractice.blogspot.com/
+2024-05-04 22:06:19 INFO  TestBase:86 - Finding Element: By.cssSelector: #draggable
+2024-05-04 22:06:19 INFO  TestBase:92 - Finding Element: By.cssSelector: #draggable
+2024-05-04 22:06:19 INFO  TestBase:86 - Finding Element: By.cssSelector: #droppable
+2024-05-04 22:06:19 INFO  TestBase:92 - Finding Element: By.cssSelector: #droppable
